@@ -22,7 +22,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: "\u5916\u5957"
   m_Shader: {fileID: 4800000, guid: 09dd912e10207244ba7cc956d861255e, type: 3}
-  m_ShaderKeywords: _NORMALMAP _RIM _TRANSPARENTZWRITE_ON
+  m_ShaderKeywords: _NORMALMAP _TRANSPARENTZWRITE_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
@@ -95,11 +95,11 @@ Material:
     - _RimOffsetY: 0.622
     - _RimPower: 4.55
     - _RimSmooth: 0.103
-    - _RimToggle: 1
-    - _SmoothDiff: 0.072
+    - _RimToggle: 0
+    - _SmoothDiff: 0.5
     - _Smoothness: 0.5
-    - _SmoothnessMax: 0.941851
-    - _SmoothnessMin: 0
+    - _SmoothnessMax: 0.6024255
+    - _SmoothnessMin: 0.052219324
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SpecularTint: 0.835
@@ -115,7 +115,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmiColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _LightColorControl: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 1}
+    - _LightColorControl: {r: 0.16251333, g: 0.22923288, b: 0.41509432, a: 1}
     - _RimBackColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _RimColor: {r: 0, g: 0, b: 0, a: 4}
     - _RimColorBack: {r: 0.1699448, g: 0.32067883, b: 0.5377358, a: 1}

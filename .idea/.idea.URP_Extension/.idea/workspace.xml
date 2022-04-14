@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ba82f02-4373-4bd4-8ebd-54053b3c0079" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.URP_Extension/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.URP_Extension/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.URP_Extension/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.URP_Extension/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.URP_Extension/.idea/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.URP_Extension/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Ailun_SKIN.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Ailun_SKIN.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Ailun_SKIN.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Ailun_SKIN.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Bantou.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Bantou.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Body.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Body.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Stand.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Stand.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Weapon.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/Weapon.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Body_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Body_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Body_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Body_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Body_mix.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Body_mix.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Weapon_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Weapon_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Weapon_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Weapon_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Weapon_mix.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/ailun_Weapon_mix.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/appear.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scene/1017Ailun_new/appear.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SimpleDepthOfField/Bioum_RenderFeature_SimpleDOF.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SimpleDepthOfField/Bioum_RenderFeature_SimpleDOF.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SimpleDepthOfField/SimpleDOF.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SimpleDepthOfField/SimpleDOF.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SimpleDepthOfField/SimpleDOFRenderFeature.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SimpleDepthOfField/SimpleDOFRenderFeature.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SimpleDepthOfField/SimpleDepthOfFieldVolume.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SimpleDepthOfField/SimpleDepthOfFieldVolume.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/外套.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/外套.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/头发.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/头发.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/眼白.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/眼白.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/眼睛.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/眼睛.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/脖子.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/脖子.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/脸.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/脸.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/领带.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Diluke/Material/领带.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Grass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Grass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/SampleSceneProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/SampleSceneProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene/LightingData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene/LightingData.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene/LightingData.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene/Lightmap-0_comp_light.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene/Lightmap-0_comp_light.exr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene/Lightmap-0_comp_light.exr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene/Lightmap-0_comp_shadowmask.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene/Lightmap-0_comp_shadowmask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene/Lightmap-0_comp_shadowmask.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene/Lightmap-0_comp_shadowmask.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene/ReflectionProbe-0.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene/ReflectionProbe-0.exr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene/ReflectionProbe-0.exr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/Scene/ReflectionProbe-1.exr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/Scene/ReflectionProbe-1.exr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/plants/Materials/MAT_Foliage_01.001.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/plants/Materials/MAT_Foliage_01.001.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/plants/Materials/MAT_Foliage_01.002.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/plants/Materials/MAT_Foliage_01.002.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/CommonRender.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/CommonRender.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/OutlineRenderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/OutlineRenderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP-HighQuality.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP-HighQuality.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP-MediumQuality.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP-MediumQuality.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/SSAO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/SSAO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/SSAO.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/SSAO.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/SSAO.hlsl" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/SSAO.hlsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/SSAO.hlsl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/SSAO.hlsl.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/ScreenSpaceAmbientOcclusion.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/ScreenSpaceAmbientOcclusion.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/ScreenSpaceAmbientOcclusion.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SSAO/ScreenSpaceAmbientOcclusion.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SobelOutline/OutlineToon_SobelBlit.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SobelOutline/OutlineToon_SobelBlit.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.unity.render-pipelines.universal@7.5.3/Runtime/Data/ForwardRendererData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.unity.render-pipelines.universal@7.5.3/Runtime/Data/ForwardRendererData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.unity.render-pipelines.universal@7.5.3/Shaders/PostProcessing/UberPost.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/com.unity.render-pipelines.universal@7.5.3/Shaders/PostProcessing/UberPost.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/URP_Extension/RenderFeature/SimpleDepthOfField/SimpleDepthOfFieldVolume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.5.3/Runtime/Volume/Volume.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.5.3/ShaderLibrary/CommonMaterial.hlsl" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1422B3F-C937-4601-8C92-EDA852993B93/2e/722e2aa8/CommandBuffer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Packages/com.unity.render-pipelines.universal@7.5.3/Shaders/PostProcessing/UberPost.shader" />
+      <option value="$PROJECT_DIR$/Assets/URP_Extension/Shader/CharacterTonePass.hlsl" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="27PNAYrknH10xD8LOemNKYLcCyw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba82f02-4373-4bd4-8ebd-54053b3c0079" name="Default Changelist" comment="" />
+      <created>1649217654410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649217654410</updated>
+      <workItem from="1649217719169" duration="1837000" />
+      <workItem from="1649808192091" duration="14088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

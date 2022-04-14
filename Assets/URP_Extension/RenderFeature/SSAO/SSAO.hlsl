@@ -390,26 +390,13 @@ half4 VerticalBlur(Varyings input) : SV_Target
     return Blur(uv, delta);
 }
 
-
-Varyings VertFinal(Attributes input)
-{
-    Varyings output;
-    UNITY_SETUP_INSTANCE_ID(input);
-    UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(output);
-
-    output.positionCS = TransformObjectToHClip(input.positionHCS);
-    output.uv = input.uv;
-
-    return output;
-}
 half4 FinalBlur(Varyings input) : SV_Target
 {
     UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(input);
-    float2 uv = (input.uv + 0.5) * 2;
-    uv = input.uv;
-    
-    half3 source = SampleSceneColor(uv);
 
+    half3 source = SampleSceneColor(input.uv);
+
+    float2 uv = input.uv;
     float2 delta = _SourceSize.zw * rcp(DOWNSAMPLE);
     half ao = 1.0 - BlurSmall(uv, delta );
 

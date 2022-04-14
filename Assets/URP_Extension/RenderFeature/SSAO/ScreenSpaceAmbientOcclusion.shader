@@ -107,7 +107,7 @@ Shader "Bioum/RenderFeature/SSAO"
             Name "SSAO_FinalBlur"
 
             HLSLPROGRAM
-                #pragma vertex VertFinal
+                #pragma vertex VertDefault
                 #pragma fragment FinalBlur
                 #include "SSAO.hlsl"
             ENDHLSL

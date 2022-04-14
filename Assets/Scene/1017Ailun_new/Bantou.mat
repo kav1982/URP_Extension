@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bantou
+  m_Shader: {fileID: 4800000, guid: 09dd912e10207244ba7cc956d861255e, type: 3}
+  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _NORMALMAP _TRANSPARENTZWRITE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MAESMap:
+        m_Texture: {fileID: 2800000, guid: 79e863e6be7196240acd924ada949f03, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 31b9d04259fea7549b66a8ea1e21324f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: afc8aba295ad04742a669c836aa03b27, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOStrength: 0.995
+    - _BlendMode: 3
+    - _BumpScale: 1
+    - _Cull: 2
+    - _CullMode: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 10
+    - _FresnelStrength: 0.402
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _LightIntensity: 1
+    - _Metallic: 0.839
+    - _Mode: 0
+    - _NormalMapDXGLSwitch: 0
+    - _NormalScale: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _PlanShadow: 1
+    - _RimOffsetW: 0
+    - _RimOffsetX: 0
+    - _RimOffsetY: 0.567
+    - _RimOffsetZ: 0
+    - _RimPower: 2.72
+    - _RimSmooth: 0.182
+    - _RimToggle: 0
+    - _ShadowY: 0.01
+    - _SmoothDiff: 0.5
+    - _SmoothnessMax: 0.72
+    - _SmoothnessMin: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularTint: 0.36
+    - _SrcBlend: 1
+    - _Transparent: 0.59
+    - _TransparentZWrite: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _sssToggle: 0
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DiffLightColDark: {r: 0.5731398, g: 0.48402455, b: 0.6886792, a: 1}
+    - _EmiColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissiveColor: {r: 0.5283019, g: 0.19686721, b: 0.19686721, a: 1}
+    - _LightColorControl: {r: 0.5522873, g: 0.5907172, b: 0.5943396, a: 1}
+    - _RimColorBack: {r: 0.6603774, g: 0.42052335, b: 0.42052335, a: 1}
+    - _RimColorFront: {r: 1.1294118, g: 2.3058825, b: 2.5254903, a: 1}
+    - _RimParam: {r: 0, g: 0.567, b: 0.182, a: 2.72}
+    - _RimSP: {r: 0.1, g: 1, b: 0, a: 0}
+    - _SSSColor: {r: 0.7, g: 0.06999998, b: 0.01, a: 1}
+    - _SkinBackColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

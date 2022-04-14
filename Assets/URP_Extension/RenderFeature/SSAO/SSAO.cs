@@ -65,14 +65,11 @@ public class SSAO : ScriptableRendererFeature
             // Get temporary render textures
             m_Descriptor = cameraTextureDescriptor;
             m_Descriptor.msaaSamples = 1;
-            //m_Descriptor.depthBufferBits = 0;
+            m_Descriptor.depthBufferBits = 0;
+            //m_Descriptor.width /= downsample;
+            //m_Descriptor.height /= downsample;
             m_Descriptor.colorFormat = RenderTextureFormat.ARGB32;
-            m_Descriptor.width /= downsample;
-            m_Descriptor.height /= downsample;
             cmd.GetTemporaryRT(s_SSAOTexture1ID, m_Descriptor, FilterMode.Bilinear);
-            
-            m_Descriptor.width *= downsample;
-            m_Descriptor.height *= downsample;
             cmd.GetTemporaryRT(s_SSAOTexture2ID, m_Descriptor, FilterMode.Bilinear);
             cmd.GetTemporaryRT(s_SSAOTexture3ID, m_Descriptor, FilterMode.Bilinear);
         }
@@ -104,12 +101,10 @@ public class SSAO : ScriptableRendererFeature
             // Execute the Blur Passes
             RenderAndSetBaseMap(cmd, m_SSAOTexture1Target, m_SSAOTexture2Target, ShaderPasses.BlurHorizontal);
             RenderAndSetBaseMap(cmd, m_SSAOTexture2Target, m_SSAOTexture3Target, ShaderPasses.BlurVertical);
-            //RenderAndSetBaseMap(cmd, m_SSAOTexture3Target, source, ShaderPasses.BlurFinal);
-
-            Blit(cmd,m_SSAOTexture3Target, source, SSAOMaterial, 3);
+            RenderAndSetBaseMap(cmd, m_SSAOTexture3Target, source, ShaderPasses.BlurFinal);
             
             // Set the global SSAO texture
-            //cmd.SetGlobalTexture(k_SSAOTextureName, m_SSAOTexture2Target);
+            cmd.SetGlobalTexture(k_SSAOTextureName, m_SSAOTexture2Target);
             
             context.ExecuteCommandBuffer(cmd);
             cmd.Clear();

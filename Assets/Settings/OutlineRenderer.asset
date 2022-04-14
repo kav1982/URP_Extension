@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Active: 1
   settings:
-    Event: 350
-    blitMaterial: {fileID: 2100000, guid: 5a9c9a0562ef3784395fb574bb2de3ee, type: 2}
-    blitMaterialPassIndex: 0
+    Event: 300
+    blitMaterial: {fileID: 0}
+    blitMaterialPassIndex: -1
     destination: 0
     textureId: _BlitPassTexture
 --- !u!114 &11400000
@@ -32,8 +32,8 @@ MonoBehaviour:
   m_Name: OutlineRenderer
   m_EditorClassIdentifier: 
   m_RendererFeatures:
-  - {fileID: -4407683349061772422}
-  m_RendererFeatureMap: 7adbc4d058c3d4c2
+  - {fileID: 3299385025109561059}
+  m_RendererFeatureMap: e30ee60e33c5c92d
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   shaders:
     blitPS: {fileID: 4800000, guid: c17132b1f77d20942aa75f8429c0f8bc, type: 3}
@@ -56,3 +56,22 @@ MonoBehaviour:
     failOperation: 0
     zFailOperation: 0
   m_ShadowTransparentReceive: 1
+--- !u!114 &3299385025109561059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c5a1e189db3c7a46baff721bc3a2833, type: 3}
+  m_Name: NewSobelOutline
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  settings:
+    Event: 550
+    blitMaterial: {fileID: 2100000, guid: f012cc041ddc048eca800cbc9cc5fd6d, type: 2}
+    blitMaterialPassIndex: -1
+    destination: 0
+    textureId: _BlitPassTexture

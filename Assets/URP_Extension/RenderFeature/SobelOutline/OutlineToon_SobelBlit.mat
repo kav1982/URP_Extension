@@ -90,7 +90,7 @@ Material:
     - _BumpScale: 1
     - _Cull: 2
     - _Cutoff: 0.5
-    - _Delta: 0.5
+    - _Delta: 0.32
     - _DeltaX: 0.002
     - _DeltaY: 0.002
     - _DstBlend: 0
@@ -100,7 +100,7 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
-    - _OutlineFactor: 0.97
+    - _OutlineFactor: 0.235
     - _Poseterize: 0
     - _PosterizationCount: 4
     - _QueueOffset: 0
@@ -117,5 +117,5 @@ Material:
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _OutlineColor: {r: 0.4056604, g: 0.24320473, b: 0.17221431, a: 1}
+    - _OutlineColor: {r: 0.16037738, g: 0.07679086, b: 0.040094346, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

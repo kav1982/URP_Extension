@@ -97,7 +97,7 @@ Material:
     - _RimPower: 5.91
     - _RimSmooth: 0.139
     - _RimToggle: 1
-    - _SmoothDiff: 0.122
+    - _SmoothDiff: 0.5
     - _Smoothness: 0.5
     - _SmoothnessMax: 0.3
     - _SmoothnessMin: 0
